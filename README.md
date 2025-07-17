@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on ** " A Platform which will provide u Song recommendations for post and storys based on picture "**
  
- 🌱 I’m currently learning **Aws , Nodejs , React**
+ 🌱 I’m currently learning **Aws**
 
 💬 Ask me about **Java... or anything [here](https://github.com/Swapnilpatil03/Swapnilpatil03/issues)**
 
@@ -37,8 +37,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,bootstrap,html,css,vscode,github,figma,canva,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,mongodb,c,java,mysql,php,jdbc,express"/>
+    <img src="https://skillicons.dev/icons?i=java,bootstrap,html,css,vscode,github,figma,canva,tailwind,git, React.js, " />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,mongodb,c,java,mysql,php,jdbc,express,render,Node.js"/>
      <img src="https://skillicons.dev/icons?i=gogglecloud,ejs" /><br><br>
 </div>
 
