@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **A wedding website **
+ 🔭 I’m currently working on **A Platform which will provide u Song recommendations for post and storys based on picture**
  
  🌱 I’m currently learning **Aws , Nodejs , React**
 
